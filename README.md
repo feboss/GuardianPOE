@@ -43,7 +43,7 @@ Lista della spesa
 
 [Dagger: Arakali](https://www.pathofexile.com/trade/search/Ultimatum/3qjPh5)
 
-[Amuleto: Astramentis](https://www.pathofexile.com/trade/search/Ultimatum/dVKOIJ)<span style="text-decoration:underline;"> </span>anointare con charisma
+[Amuleto: Astramentis](https://www.pathofexile.com/trade/search/Ultimatum/dVKOIJ) anointare con charisma
 
 [Armour: Skin of the loyal](https://www.pathofexile.com/trade/search/Ultimatum/jYJg2XhX)
 
