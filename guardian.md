@@ -1,15 +1,15 @@
 ﻿# Guardian Herald of Agony
 
-## Path of building
+### Path of building
 
 [https://pastebin.com/DeCR6Lqc](https://pastebin.com/DeCR6Lqc)
 
-## Statistiche
+### Statistiche
 **Dex**: 159
 
 **Str**: determination 20(159) determination 19(151)
 
-## Link
+### Link
 
 **Armour**: Herald of agony - Pierce - Vicious Projectile - empower - damage on full life - minion damage
 
@@ -23,10 +23,10 @@
 
 **4 link**: Cast when stunned, Spirit offering, Increased duration, Molten shell
 
-> Fin quando non si ha il watcher's eye clarity è inutile .  
+> Fin quando non si ha il watcher's eye clarity è inutile.  
 > Fin quando non si hanno entrambi gli anelli, charisma anointato e il cluster con uncompromising non si può attivare discipline
 
-## Pantheon
+### Pantheon
 
 Da prendere assolutamente **Soul of gruthluk** catturando **mephod** perché altrimenti si muore parecchio. 
 
@@ -36,7 +36,7 @@ Da prendere assolutamente **Soul of gruthluk** catturando **mephod** perché alt
 
 **Soul of the Brine King**
 
-## Ascendancy
+### Ascendancy
 
 Radiant Faith → Radiant Crusade → Unwavering crusade → Time of need
 
@@ -46,13 +46,13 @@ Radiant Faith → Radiant Crusade → Unwavering crusade → 1 punto verso time 
 
 > così facendo bisogna mettere una pozza contro i curse
 
-## Banditi
+### Banditi
 
 Uccidere tutti
 
-# Shopping list
+## Shopping list
 
-## equip
+### equip
 [Elmo: Memory vault](https://www.pathofexile.com/trade/search/Ultimatum/QRbaOHw)
 
 [Elmo: Memory vault (lab enchant)](https://www.pathofexile.com/trade/search/Ultimatum/0Vb2pdFg)
@@ -91,7 +91,7 @@ Uccidere tutti
 
 
 
-## Gioielli
+### Gioielli
 
 [Blessing Of Chayula](https://www.pathofexile.com/trade/search/Ultimatum/EarKH5) (bless of chayula + blue dream = blue nightmare)
 
@@ -113,7 +113,7 @@ Uccidere tutti
 
 [Fortress Covenant](https://www.pathofexile.com/trade/search/Ultimatum/3L93KBGi5) (mana reserve)
 
-## Cluster
+### Cluster
 
 [MediumCluster](https://www.pathofexile.com/trade/search/Ultimatum/gZVyB57sQ)
 
@@ -123,7 +123,7 @@ Uccidere tutti
 
 [Medium CLuster mana reserve 30+30](https://www.pathofexile.com/trade/search/Ultimatum/Pr6GEQkIL)
 
-## Gemme
+### Gemme
 
 [HoA 21](https://www.pathofexile.com/trade/search/Ultimatum/m32wpeS6)
 
@@ -147,7 +147,7 @@ Uccidere tutti
 
 [Anomalous Cast While Channeling](https://www.pathofexile.com/trade/search/Ultimatum/ylXQWXOUR)
 
-### Gemme corrotte per skin of the lords (23%)
+#### Gemme corrotte per skin of the lords (23%)
 
 [Damage on full life](https://www.pathofexile.com/trade/search/Ultimatum/Kl7Ens5)
 
@@ -157,7 +157,7 @@ Uccidere tutti
 
 [Minion Damage](https://www.pathofexile.com/trade/search/Ultimatum/BgOX3c8)
 
-### Gemme awakened
+#### Gemme awakened
 
 [Awakened Minion Damage](https://www.pathofexile.com/trade/search/Ultimatum/ve3OpvJiE)
 
@@ -172,6 +172,3 @@ Uccidere tutti
 [Flagellant's granite flask of staunching](https://www.pathofexile.com/trade/search/Ultimatum/Wv6YkgDtm)
 
 [Flagellant's Sulphur Flask of Heat](https://www.pathofexile.com/trade/search/Ultimatum/RJB4geWI7)
-
-
-
