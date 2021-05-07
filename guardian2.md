@@ -1,6 +1,12 @@
-﻿## Path of building
+﻿# Guardian Herald of Agony
+
+## Path of building
 
 [https://pastebin.com/DeCR6Lqc](https://pastebin.com/DeCR6Lqc)
+
+## Statistiche
+**Dex**: 159
+**Str**: determination 20(159) determination 19(151)
 
 ## Link
 
