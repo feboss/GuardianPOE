@@ -1,14 +1,1 @@
-remote_theme: adueck/good-clean-read
-
-# Site settings
-title: Path of Exile
-tag_text: Path of Exile
-description: Path of exile Sharing
-baseurl: ""
-
-font-awesome-include: true # make this false if you don't need font-awesome
-
-# Build settings
-markdown: kramdown
-
-exclude: ["README.md"]
+remote_theme: chesterhow/tale
