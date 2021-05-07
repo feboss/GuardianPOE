@@ -53,6 +53,7 @@ Uccidere tutti
 ## Shopping list
 
 ### equip
+
 [Elmo: Memory vault](https://www.pathofexile.com/trade/search/Ultimatum/QRbaOHw)
 
 [Elmo: Memory vault (lab enchant)](https://www.pathofexile.com/trade/search/Ultimatum/0Vb2pdFg)
