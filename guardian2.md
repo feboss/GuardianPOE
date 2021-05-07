@@ -6,6 +6,7 @@
 
 ## Statistiche
 **Dex**: 159
+
 **Str**: determination 20(159) determination 19(151)
 
 ## Link
@@ -22,7 +23,7 @@
 
 **4 link**: Cast when stunned, Spirit offering, Increased duration, Molten shell
 
-> Fin quando non si ha il watcher's eye è inutile clarity.  
+> Fin quando non si ha il watcher's eye clarity è inutile .  
 > Fin quando non si hanno entrambi gli anelli, charisma anointato e il cluster con uncompromising non si può attivare discipline
 
 ## Pantheon
@@ -52,6 +53,7 @@ Uccidere tutti
 # Shopping list
 
 ## equip
+[Elmo: Memory vault](https://www.pathofexile.com/trade/search/Ultimatum/QRbaOHw)
 
 [Elmo: Memory vault (lab enchant)](https://www.pathofexile.com/trade/search/Ultimatum/0Vb2pdFg)
 
@@ -82,6 +84,12 @@ Uccidere tutti
 [Ring: Circle of nostalgia](https://www.pathofexile.com/trade/search/Ultimatum/DYJbQ2Bc5) (vulnerability on hit e mana reserve)
 
 [Boots: Rainbowstride 6%](https://www.pathofexile.com/trade/search/Ultimatum/VLlL9Z8Sp)
+
+[Guanti Poison con energy shield](https://www.pathofexile.com/trade/search/Ultimatum/le3QJGnHV)
+
+[amuleto +2 upgrade dell'astramentis](https://www.pathofexile.com/trade/search/Ultimatum/qREdv5pCg)
+
+
 
 ## Gioielli
 
@@ -116,6 +124,7 @@ Uccidere tutti
 [Medium CLuster mana reserve 30+30](https://www.pathofexile.com/trade/search/Ultimatum/Pr6GEQkIL)
 
 ## Gemme
+
 [HoA 21](https://www.pathofexile.com/trade/search/Ultimatum/m32wpeS6)
 
 [Empower 3](https://www.pathofexile.com/trade/search/Ultimatum/pEk5u0)
@@ -155,6 +164,7 @@ Uccidere tutti
 [Awakened vicious projectile](https://www.pathofexile.com/trade/search/Ultimatum/2KGJY6VTk)
 
 ### Flask
+
 [Writing jar](https://www.pathofexile.com/trade/search/Ultimatum/7KlnS5)
 
 [Ample quicksilver flask of iron](https://www.pathofexile.com/trade/search/Ultimatum/Xo4rkjkCP)
