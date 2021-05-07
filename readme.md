@@ -1,3 +1,3 @@
-Links:
+**Build**:
 
-[Guardian Herald of Agony](./Guardian.html).
+[Guardian Herald of Agony](./guardian.html).
