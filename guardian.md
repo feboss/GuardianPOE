@@ -28,13 +28,15 @@
 
 ### Pantheon
 
-Da prendere assolutamente **Soul of gruthluk** catturando **mephod** perché altrimenti si muore parecchio. 
+**Soul of Abberath**
+Catturare **mephod** 
 
 > mephod (50% reduced ignited + anointed flesh 15% reduced elemental
 > aiment duration + ignite resistance 30% in meno, + elemental
 > resistance 5% in meno = immune all’ignite)
 
 **Soul of the Brine King**
+Catturare tutto
 
 ### Ascendancy
 
