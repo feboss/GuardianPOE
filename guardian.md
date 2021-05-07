@@ -1,4 +1,4 @@
-﻿# Guardian Herald of Agony
+# Guardian Herald of Agony
 
 ### Path of building
 
