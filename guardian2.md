@@ -59,7 +59,7 @@ Uccidere tutti
 
 [Armour: Skin of the lords](https://www.pathofexile.com/trade/search/Ultimatum/JgDD0yWsl)
 
->  in ordine di importanza: +1 alle gemme, iron reflex, phase
+> in ordine di importanza: +1 alle gemme, iron reflex, phase
 > acrobatics, imbalance guard, wind dancer. Con questa chest bisogna
 > mettere tutte le gemme corrotte
 
