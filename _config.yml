@@ -1,1 +1,6 @@
 remote_theme: samarsault/texture
+texture:
+  title: Path of Exile
+  style: black
+  showNav: false
+  showPicker: false
