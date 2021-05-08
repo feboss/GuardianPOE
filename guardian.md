@@ -78,7 +78,7 @@ Uccidere tutti
 
 [Armour: Skin of the loyal +1 alle gemme 3G2R1B](https://www.pathofexile.com/trade/search/Ultimatum/B7Q283u8)
 
-[Armour: Skin of the loyal +1 alle gemme 2G3R1B] (https://www.pathofexile.com/trade/search/Ultimatum/e2dkmoiL)
+[Armour: Skin of the loyal +1 alle gemme 2G3R1B](https://www.pathofexile.com/trade/search/Ultimatum/e2dkmoiL)
 
 [Armour: Skin of the lords 3G2R1B](https://www.pathofexile.com/trade/search/Ultimatum/JgDD0yWsl)
 
