@@ -11,7 +11,11 @@
 
 ### Link
 
-**Armour**: Herald of agony - Pierce - Vicious Projectile - empower - damage on full life - minion damage
+**Armour 3G2R1B**: Herald of agony - Pierce - Vicious Projectile - empower - damage on full life - minion damage
+
+**Armour 2G3R1B (per single target)** Herald of agony - Impale - Vicious Projectile - empower - damage on full life - minion damage
+
+**Armour 2G3R1B (per single target)** Herald of agony - Maim - Vicious Projectile - empower - damage on full life - minion damage
 
 **Arma**: Withering touch - melee splash - minion damage
 
@@ -64,15 +68,19 @@ Uccidere tutti
 
 [Amuleto: Astramentis](https://www.pathofexile.com/trade/search/Ultimatum/QLEQVE3Cw) anointare con charisma
 
-[Armour: Skin of the loyal](https://www.pathofexile.com/trade/search/Ultimatum/jYJg2XhX)
-
-[Armour: Skin of the loyal +1 alle gemme](https://www.pathofexile.com/trade/search/Ultimatum/B7Q283u8)
-
-[Armour: Skin of the lords](https://www.pathofexile.com/trade/search/Ultimatum/JgDD0yWsl)
-
-> in ordine di importanza: +1 alle gemme, iron reflex, phase
+> **Armour** in ordine di importanza: +1 alle gemme, iron reflex, phase
 > acrobatics, imbalance guard, wind dancer. Con questa chest bisogna
 > mettere tutte le gemme corrotte
+
+[Armour: Skin of the loyal](https://www.pathofexile.com/trade/search/Ultimatum/jYJg2XhX)
+
+[Armour: Skin of the loyal +1 alle gemme 3G2R1B](https://www.pathofexile.com/trade/search/Ultimatum/B7Q283u8)
+
+[Armour: Skin of the loyal +1 alle gemme 2G3R1B] (https://www.pathofexile.com/trade/search/Ultimatum/e2dkmoiL)
+
+[Armour: Skin of the lords 3G2R1B](https://www.pathofexile.com/trade/search/Ultimatum/JgDD0yWsl)
+
+[Armour: Skin of the lords 2G3R1B](https://www.pathofexile.com/trade/search/Ultimatum/vXomY9MHE)
 
 [Scudo: Aegis aurora](https://www.pathofexile.com/trade/search/Ultimatum/24ndck)
 
@@ -91,7 +99,6 @@ Uccidere tutti
 [Guanti Poison con energy shield](https://www.pathofexile.com/trade/search/Ultimatum/le3QJGnHV)
 
 [amuleto +2 upgrade dell'astramentis](https://www.pathofexile.com/trade/search/Ultimatum/qREdv5pCg)
-
 
 
 ### Gioielli
