@@ -60,6 +60,8 @@ Uccidere tutti
 
 ### equip
 
+> Elmo + scudo è la base della build.
+ 
 [Elmo: Memory vault](https://www.pathofexile.com/trade/search/Ultimatum/QRbaOHw)
 
 [Elmo: Memory vault (lab enchant)](https://www.pathofexile.com/trade/search/Ultimatum/0Vb2pdFg)
@@ -91,8 +93,6 @@ Uccidere tutti
 > Nel caso in cui si acquista uno scudo con la skill bisogna spostare il setup con enlighten nello scudo e spostare le skill dello scudo in un 4 link trovandosi con una skill libera
 
 [Ring: Circle Of Nostalgia](https://www.pathofexile.com/trade/search/Ultimatum/4E0oy8LC9) (inc. damage e mana reserve)
-
-[Ring: Circle of nostalgia](https://www.pathofexile.com/trade/search/Ultimatum/DYJbQ2Bc5) (vulnerability on hit e mana reserve)
 
 [Boots: Rainbowstride 6%](https://www.pathofexile.com/trade/search/Ultimatum/VLlL9Z8Sp)
 
