@@ -70,6 +70,8 @@ Uccidere tutti
 
 [Amuleto: Astramentis](https://www.pathofexile.com/trade/search/Ultimatum/QLEQVE3Cw) anointare con charisma
 
+[amuleto +2 upgrade dell'astramentis](https://www.pathofexile.com/trade/search/Ultimatum/qREdv5pCg)
+
 > **Armour** in ordine di importanza: +1 alle gemme, iron reflex, phase
 > acrobatics, imbalance guard, wind dancer. Con questa chest bisogna
 > mettere tutte le gemme corrotte
@@ -84,22 +86,19 @@ Uccidere tutti
 
 [Armour: Skin of the lords 2G3R1B](https://www.pathofexile.com/trade/search/Ultimatum/vXomY9MHE)
 
+> **Scudo** In ordine di importanza: Chance to block spell damage, determination
+> skill o discipline skill, energy shield 
+> Nel caso in cui si acquista uno scudo con la skill bisogna spostare il setup con enlighten nello scudo e spostare le skill dello scudo in un 4 link trovandosi con una skill libera
+
 [Scudo: Aegis aurora](https://www.pathofexile.com/trade/search/Ultimatum/24ndck)
 
 [Scudo: Aegis Aurora corrotto](https://www.pathofexile.com/trade/search/Ultimatum/mwp5XWzI6)
-
-> In ordine di importanza: Chance to block spell damage, determination
-> skill o discipline skill, energy shield 
-> Nel caso in cui si acquista uno scudo con la skill bisogna spostare il setup con enlighten nello scudo e spostare le skill dello scudo in un 4 link trovandosi con una skill libera
 
 [Ring: Circle Of Nostalgia](https://www.pathofexile.com/trade/search/Ultimatum/4E0oy8LC9) (inc. damage e mana reserve)
 
 [Boots: Rainbowstride 6%](https://www.pathofexile.com/trade/search/Ultimatum/VLlL9Z8Sp)
 
 [Guanti Poison con energy shield](https://www.pathofexile.com/trade/search/Ultimatum/le3QJGnHV)
-
-[amuleto +2 upgrade dell'astramentis](https://www.pathofexile.com/trade/search/Ultimatum/qREdv5pCg)
-
 
 ### Gioielli
 
