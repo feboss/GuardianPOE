@@ -1,2 +1,1 @@
-remote_theme: andrewhwanpark/dark-poole
-paginate_path: "/baseurl/page:num/"
+remote_theme: bitbrain/jekyll-dash
