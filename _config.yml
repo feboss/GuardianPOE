@@ -1,14 +1,1 @@
-remote_theme: essentialenemy/noir
-
-exclude:
-  - .editorconfig
-  - .git
-  - .jekyll-cache
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE.md
-  - README.md
-
-sass:
-  sass_dir: _sass
-  style: :compressed
+remote_theme: karloespiritu/BlackDoc
