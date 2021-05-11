@@ -1,0 +1,13 @@
+<script type="text/javascript">
+const theme = localStorage.getItem('theme');
+
+document.documentElement.setAttribute('data-theme', 'dark');
+
+const userPrefers = getComputedStyle(document.documentElement).getPropertyValue('content');
+
+document.documentElement.setAttribute('data-theme', 'dark');
+document.documentElement.classList.add('theme--dark');
+document.documentElement.classList.remove('theme--light');
+window.localStorage.setItem('theme', 'dark');
+	
+</script>
