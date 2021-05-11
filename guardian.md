@@ -96,7 +96,7 @@ Uccidere tutti
 
 [Scudo: Aegis aurora](https://www.pathofexile.com/trade/search/Ultimatum/24ndck)
 
-[Scudo: Aegis Aurora corrotto](https://www.pathofexile.com/trade/search/Ultimatum/mwp5XWzI6)
+[Scudo: Aegis Aurora corrotto](https://www.pathofexile.com/trade/search/Ultimatum/rRJbQ8EtQ)
 
 [Ring: Circle Of Nostalgia](https://www.pathofexile.com/trade/search/Ultimatum/4E0oy8LC9) (inc. damage e mana reserve)
 
