@@ -5,9 +5,10 @@ title:  "Guardian Herald of Agony"
 
 ### Path of building
 
-[https://pastebin.com/DeCR6Lqc](https://pastebin.com/DeCR6Lqc)
+[https://pastebin.com/3pZxAZeV](https://pastebin.com/3pZxAZeV)
 
 ### Statistiche
+
 **Dex**: 159
 
 **Str**: determination 20(159) determination 19(151)
@@ -24,11 +25,11 @@ title:  "Guardian Herald of Agony"
 
 **Scudo**: Clarity - Flame dash - Desecrate
 
-**Guanti**: Cyclone - cast while channeling - ball lightning - fortify
+**Guanti**: Cyclone - Anomalous Cast while channeling - ball lightning - fortify
 
-**4 link**: Determination, Dread banner, Vaal discipline, Enlighten 
+**4 link**: Determination, Divergent Dread banner, Vaal discipline, Enlighten 
 
-**4 link**: Cast when stunned, Spirit offering, Increased duration, Molten shell
+**4 link**: Anomalous Cast when stunned, Spirit offering, Sniper mark, Anomalous Molten shell
 
 > Fin quando non si ha il watcher's eye clarity è inutile.  
 > Fin quando non si hanno entrambi gli anelli, charisma anointato e il cluster con uncompromising non si può attivare discipline
@@ -54,7 +55,6 @@ alternativa ottimizzata:
 Radiant Faith → Radiant Crusade → Unwavering crusade → 1 punto verso time of need e 1 verso unwavering faith
 
 > così facendo bisogna mettere una pozza contro i curse
-> .
 
 ### Banditi
 
@@ -65,7 +65,6 @@ Uccidere tutti
 ### equip
 
 > Elmo + scudo è la base della build.
-> .
 
 [Elmo: Memory vault](https://www.pathofexile.com/trade/search/Ultimatum/QRbaOHw)
 
@@ -77,9 +76,9 @@ Uccidere tutti
 
 [amuleto +2 upgrade dell'astramentis](https://www.pathofexile.com/trade/search/Ultimatum/qREdv5pCg)
 
-> **Armour** in ordine di importanza: +1 alle gemme, iron reflex, phase
-> acrobatics, imbalance guard, wind dancer. Con questa chest bisogna
-> mettere tutte le gemme corrotte
+> **Armour** in ordine di importanza: 
+> +1 alle gemme, iron reflex, phase acrobatics, imbalance guard, wind dancer. 
+> Con questa chest bisogna mettere tutte le gemme corrotte
 
 [Armour: Skin of the loyal](https://www.pathofexile.com/trade/search/Ultimatum/jYJg2XhX)
 
@@ -91,9 +90,9 @@ Uccidere tutti
 
 [Armour: Skin of the lords 2G3R1B](https://www.pathofexile.com/trade/search/Ultimatum/vXomY9MHE)
 
-> **Scudo** In ordine di importanza: Chance to block spell damage, determination
-> skill o discipline skill, energy shield 
-> Nel caso in cui si acquista uno scudo con la skill bisogna spostare il setup con enlighten nello scudo e spostare le skill dello scudo in un 4 link trovandosi con una skill libera
+> **Scudo** In ordine di importanza: 
+> Chance to block spell damage, determination skill, energy shield 
+> Nel caso in cui si acquista uno scudo con determination, spostare il setup con enlighten nello scudo e spostare le skill dello scudo in un 4 link trovandosi con una skill libera
 
 [Scudo: Aegis aurora](https://www.pathofexile.com/trade/search/Ultimatum/24ndck)
 
@@ -134,8 +133,6 @@ Uccidere tutti
 [BigCluster ](https://www.pathofexile.com/trade/search/Ultimatum/G5jEK6Bib)
 
 [Medium Cluster mana reserve 30](https://www.pathofexile.com/trade/search/Ultimatum/vZ3WwdzHE)
-
-[Medium CLuster mana reserve 30+30](https://www.pathofexile.com/trade/search/Ultimatum/Pr6GEQkIL)
 
 ### Gemme
 
