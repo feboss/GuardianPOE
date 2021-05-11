@@ -55,6 +55,7 @@ alternativa ottimizzata:
 Radiant Faith → Radiant Crusade → Unwavering crusade → 1 punto verso time of need e 1 verso unwavering faith
 
 > così facendo bisogna mettere una pozza contro i curse
+> <br/><br/>
 
 ### Banditi
 
