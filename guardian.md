@@ -15,7 +15,7 @@ title:  "Guardian Herald of Agony"
 
 ### Link
 
-**Armour 3G2R1B**: Herald of agony - Pierce - Vicious Projectile - empower - damage on full life - minion damage
+**Armour 3G2R1B (per clearing)**: Herald of agony - Pierce - Vicious Projectile - empower - damage on full life - minion damage
 
 **Armour 2G3R1B (per single target)** Herald of agony - Impale - Vicious Projectile - empower - damage on full life - minion damage
 
@@ -80,7 +80,6 @@ Uccidere tutti
 
 > **Armour** in ordine di importanza: 
 > +1 alle gemme, iron reflex, phase acrobatics, imbalance guard, wind dancer. 
-> Con questa chest bisogna mettere tutte le gemme corrotte
 
 [Armour: Skin of the loyal](https://www.pathofexile.com/trade/search/Ultimatum/jYJg2XhX)
 
