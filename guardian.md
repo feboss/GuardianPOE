@@ -1,4 +1,7 @@
-# Guardian Herald of Agony
+---
+layout: post
+title:  "Guardian Herald of Agony"
+---
 
 ### Path of building
 
