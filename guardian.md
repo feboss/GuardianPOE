@@ -29,7 +29,7 @@ title:  "Guardian Herald of Agony"
 
 **4 link**: Determination, Divergent Dread banner, Vaal discipline, Enlighten 
 
-**4 link**: Anomalous Cast when stunned, Spirit offering, Sniper mark, Anomalous Molten shell
+**4 link**: Anomalous Cast when stunned, Spirit offering, Sniper mark, Molten shell
 
 > Fin quando non si ha il watcher's eye clarity è inutile.  
 > Fin quando non si hanno entrambi gli anelli, charisma anointato e il cluster con uncompromising non si può attivare discipline
