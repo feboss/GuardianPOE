@@ -65,7 +65,7 @@ Uccidere tutti
 ### equip
 
 > Elmo + scudo è la base della build.
-> &nbsp
+> <br/><br/>
 
 [Elmo: Memory vault](https://www.pathofexile.com/trade/search/Ultimatum/QRbaOHw)
 
