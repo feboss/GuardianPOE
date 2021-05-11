@@ -54,6 +54,7 @@ alternativa ottimizzata:
 Radiant Faith → Radiant Crusade → Unwavering crusade → 1 punto verso time of need e 1 verso unwavering faith
 
 > così facendo bisogna mettere una pozza contro i curse
+> .
 
 ### Banditi
 
@@ -64,9 +65,8 @@ Uccidere tutti
 ### equip
 
 > Elmo + scudo è la base della build.
+> .
 
-
- 
 [Elmo: Memory vault](https://www.pathofexile.com/trade/search/Ultimatum/QRbaOHw)
 
 [Elmo: Memory vault (lab enchant)](https://www.pathofexile.com/trade/search/Ultimatum/0Vb2pdFg)
