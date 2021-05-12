@@ -11,11 +11,11 @@ title:  "Guardian Herald of Agony"
 
 #### Difesa
 
-Ascendancy del guardiano 
-**Radiant faith** *Grants maximum Energy Shield equal to 10% of your Reserved Mana* + 
-elmo **memory vault** *Gain Armour equal to your Reserved Mana* +
-armor **Skin of the Loyal** *100% increases global defences*
-serve a costruire l'armor che porteremo a oltre 80000 e l'energy shield che sarà intorno ai 7000+. 
+* Ascendancy del guardiano **Radiant faith** *Grants maximum Energy Shield equal to 10% of your Reserved Mana*
+* Elmo **memory vault** *Gain Armour equal to your Reserved Mana*
+* Armor **Skin of the Loyal** *100% increases global defences*
+* **Determination** *52% more armour*
+portano l'armor a oltre 80000 e l'energy shield che sarà intorno ai 7000+. 
 
 Lo scudo *Aegis Aurora* *Replenishes Energy Shield by 2% of Armour when you Block* ci permetterà
 di recuperare ES al blocco. Arriveremo ad avere 80000 di armour e questo significa 1700 di es recuperato ad ogni blocco. 
