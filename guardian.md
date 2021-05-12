@@ -26,7 +26,7 @@ arriveremo ad avere 80000 di armour e questo significa 1700 di es recuperato ad 
 
 portano il blocco a 75%
 
-* Fortify
+* **Fortify**: *20% less damage taken from hits for 4 seconds* 
 
 perennemente attivo grazie a cyclone
 
@@ -56,7 +56,7 @@ A questo punto aumentiamo il livello della gemma con empower e un armatura che d
 
 **Armour 3G2R1B (per clearing)**: Herald of agony - Pierce - Vicious Projectile - empower - damage on full life - minion damage
 
-**Armour 2G3R1B (per single target)** Herald of agony - Impale - Vicious Projectile - empower - damage on full life - minion damage
+**Armour 3G2R1B (per single target)** Herald of agony - Impale - Vicious Projectile - empower - damage on full life - minion damage
 
 **Armour 2G3R1B (per single target)** Herald of agony - Maim - Vicious Projectile - empower - damage on full life - minion damage
 
