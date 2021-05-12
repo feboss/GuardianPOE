@@ -13,19 +13,28 @@ title:  "Guardian Herald of Agony"
 
 Ascendancy del guardiano **Radiant faith** *Grants maximum Energy Shield equal to 10% of your Reserved Mana* + elmo **memory vault** *Gain Armour equal to your Reserved Mana* 
 serve a costruire l'armor che porteremo a oltre 80000 e l'energy shield che sarà intorno ai 7000+. 
+
 Lo scudo *Aegis Aurora* *Replenishes Energy Shield by 2% of Armour when you Block* ci permetterà
 di recuperare ES al blocco. Arriveremo ad avere 80000 di armour e questo significa 1700 di es recuperato ad ogni blocco. 
+
 Quindi poteremo il blocco al 75% con il nodo Glancing blows + il jewel Blue nightmare.
 
 #### Attacco
 
 **Arakali Fang** è la componente melee della build. Ci permetterà di avere 20 minion molto aggressivi, veloci e spietati che applicheranno in maniera massiva blind, withered e puliranno in maniera molto efficace.
+
 l'unico problema è che per farli apparire bisogna avere dei corpi morti disponibili ( possiamo crearli con desecrate ) e dobbiamo killare qualcosa. Cosa difficile quando abbiamo lo scorpione che uccide prima di noi.
+
 Ci aiutiamo con la flask che fa apparire 2 vermetti con pochissimi hp, dopo aver castato 2x dessecrate. Nel mappaggio in generale non serve perché qualcosa uccidederemo con cyclone o ball lightning e quindi avremo disponibili i ragnetti
 
 **Herald of Agony** è la componente ranged della build. è quello che fa il vero danno. Per poterlo rendere efficace bisogna costruire le **virulence stack** che aumentano man mano che applichiamo poison con hit
-La maniera più efficace di hittare mob è con Ball lightning perché ha un alto hit rate. Utilizzeremo cyclone con cast while channelling per aiutarci nel movimento e per attivare fortify. Servono dei guanti con poison
+
+La maniera più efficace di hittare mob è con Ball lightning perché ha un alto hit rate. 
+
+Utilizzeremo cyclone con cast while channelling per aiutarci nel movimento e per attivare fortify. Servono dei guanti con poison
 per avere il 60% di poison on hit che sommato all'arakali (15%) e herald of agony( 20%) diventa 95%. Ci aiutamo anche con il golden rule per cercare di tenere sempre al massimo le stack di virulence.
+
+A questo punto aumentiamo il livello della gemma con empower e un armatura che da +1 alle gemme ( +2 quando corrotta ) e aumenta del 100% le difese
 
 ### Statistiche
 
