@@ -18,12 +18,17 @@ title:  "Guardian Herald of Agony"
 
 portano l'armor a oltre 80000 e l'energy shield che sarà intorno ai 7000+. 
 
-Lo scudo *Aegis Aurora* *Replenishes Energy Shield by 2% of Armour when you Block* ci permetterà
-di recuperare ES al blocco. Arriveremo ad avere 80000 di armour e questo significa 1700 di es recuperato ad ogni blocco. 
+* Scudo **Aegis Aurora**: *Replenishes Energy Shield by 2% of Armour when you Block* 
 
-Quindi poteremo il blocco al 75% con il nodo Glancing blows + il jewel Blue nightmare.
+arriveremo ad avere 80000 di armour e questo significa 1700 di es recuperato ad ogni blocco. 
 
-Avremo anche fortify perennemente attivo grazie a cyclone + fortify
+* Glancing blows + il jewel blue nightmare 
+
+portano il blocco a 75%
+
+* Fortify
+
+perennemente attivo grazie a cyclone
 
 #### Attacco
 
