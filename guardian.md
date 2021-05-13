@@ -115,7 +115,7 @@ Uccidere tutti
 
 [Amuleto: Astramentis](https://www.pathofexile.com/trade/search/Ultimatum/QLEQVE3Cw) anointare con charisma
 
-[amuleto +2 upgrade dell'astramentis](https://www.pathofexile.com/trade/search/Ultimatum/qREdv5pCg)
+[amuleto +2 (upgrade dell'astramentis)](https://www.pathofexile.com/trade/search/Ultimatum/qREdv5pCg)
 
 > **Armour** in ordine di importanza: 
 > +1 alle gemme, iron reflex, phase acrobatics, imbalance guard, wind dancer. 
