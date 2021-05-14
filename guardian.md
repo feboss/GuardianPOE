@@ -148,7 +148,7 @@ Uccidere tutti
 
 [Blessing Of Chayula](https://www.pathofexile.com/trade/search/Ultimatum/EarKH5) (bless of chayula + blue dream = blue nightmare)
 
-[Blue Dream](https://www.pathofexile.com/trade/search/Ultimatum/YB4MKvUY)
+[Blue Dream](https://www.pathofexile.com/trade/search/Ultimatum/DJwpQwgt5)
 
 [Blue Nightmare](https://www.pathofexile.com/trade/search/Ultimatum/3qq5T5)
 
