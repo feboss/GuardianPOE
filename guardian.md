@@ -5,7 +5,7 @@ title:  "Guardian Herald of Agony"
 
 ### Path of building
 
-[https://pastebin.com/3pZxAZeV](https://pastebin.com/3pZxAZeV)
+https://pastebin.com/2nwpBNi8
 
 ### Funzionamento della build
 
@@ -160,7 +160,10 @@ Uccidere tutti
 
 [Golden Rule (mana reserve)](https://www.pathofexile.com/trade/search/Ultimatum/YB0Yby7UY)
 
-[Split Personality](https://www.pathofexile.com/trade/search/Ultimatum/4E6n38ku9) (armour la meno importante)
+> **Split personality** in ordine di importanza: Int e ES, ES e mana, Es e armour
+> <br/><br/>
+
+[Split Personality](https://www.pathofexile.com/trade/search/Ultimatum/ErXJ7jZC5)
 
 [Fortress Covenant](https://www.pathofexile.com/trade/search/Ultimatum/bGELBzdcL)
 
