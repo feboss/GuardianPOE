@@ -79,7 +79,7 @@ A questo punto aumentiamo il livello della gemma con empower e un armatura che d
 Catturare **mephod** 
 
 > mephod (50% reduced ignited + anointed flesh 15% reduced elemental
-> aiment duration + ignite resistance 30% in meno, + elemental
+> ailment duration + ignite resistance 30% in meno, + elemental
 > resistance 5% in meno = immune all’ignite)
 
 **Soul of the Brine King**
@@ -223,3 +223,7 @@ Uccidere tutti
 [Flagellant's granite flask of staunching](https://www.pathofexile.com/trade/search/Ultimatum/Wv6YkgDtm)
 
 [Flagellant's Sulphur Flask of Heat](https://www.pathofexile.com/trade/search/Ultimatum/RJB4geWI7)
+
+### Suggerimenti
+
++ Abbiamo 3 gemme nel setup che non hanno molto importanza su quale livello o quality siano. Ciclone, Flame dash e ball lightning. Livelliamo a 20 20 e vendiamoli
