@@ -160,7 +160,7 @@ Uccidere tutti
 
 [Golden Rule (mana reserve)](https://www.pathofexile.com/trade/search/Ultimatum/YB0Yby7UY)
 
-> **Split personality** in ordine di importanza: Int e ES, ES e mana, Es e armour
+> **Split personality** in ordine di importanza: Int e ES, ES e Mana, ES e Armour
 > <br/><br/>
 
 [Split Personality](https://www.pathofexile.com/trade/search/Ultimatum/ErXJ7jZC5)
