@@ -179,27 +179,31 @@ Uccidere tutti
 
 ### Gemme
 
+[Withering Touch 21/23](https://www.pathofexile.com/trade/search/Ultimatum/0Xpa07Ug)
+
+[Awakened melee Splash](https://www.pathofexile.com/trade/search/Ultimatum/eRwamEwcL)
+
+[Awakened Minion Damage](https://www.pathofexile.com/trade/search/Ultimatum/Z6P70nzuQ)
+
 [HoA 21](https://www.pathofexile.com/trade/search/Ultimatum/m32wpeS6)
 
 [Empower 3](https://www.pathofexile.com/trade/search/Ultimatum/pEk5u0)
 
 [Empower 4](https://www.pathofexile.com/trade/search/Ultimatum/kyBKC5)
 
-[Withering Touch 21/23](https://www.pathofexile.com/trade/search/Ultimatum/0Xpa07Ug)
-
 [Awakened vicious Proj](https://www.pathofexile.com/trade/search/Ultimatum/2KGJY6VTk)
 
-[Divergent cast when stunned](https://www.pathofexile.com/trade/search/Ultimatum/dZVMdzRUJ)
+[Maim 21/23](https://www.pathofexile.com/trade/search/Ultimatum/LB43E2Hn)
 
-[Phantasmal Cyclone](https://www.pathofexile.com/trade/search/Ultimatum/v0yXbJXfE)
+[Divergent cast when stunned](https://www.pathofexile.com/trade/search/Ultimatum/dZVMdzRUJ)
 
 [Anomalous Fortify](https://www.pathofexile.com/trade/search/Ultimatum/prKEOMZH0)
 
 [Divergent determination (Evasion)](https://www.pathofexile.com/trade/search/Ultimatum/68jZPRjsG)
 
-[Anomalous Determination (stun)](https://www.pathofexile.com/trade/search/Ultimatum/k7WwQX0T5)
-
 [Anomalous Cast While Channeling](https://www.pathofexile.com/trade/search/Ultimatum/ylXQWXOUR)
+
+[Divergent dread banner](https://www.pathofexile.com/trade/search/Ultimatum/nkwJQw9i0)
 
 #### Gemme corrotte per skin of the lords (23%)
 
@@ -211,11 +215,6 @@ Uccidere tutti
 
 [Minion Damage](https://www.pathofexile.com/trade/search/Ultimatum/BgOX3c8)
 
-#### Gemme awakened
-
-[Awakened Minion Damage](https://www.pathofexile.com/trade/search/Ultimatum/ve3OpvJiE)
-
-[Awakened vicious projectile](https://www.pathofexile.com/trade/search/Ultimatum/2KGJY6VTk)
 
 ### Flask
 
@@ -229,4 +228,4 @@ Uccidere tutti
 
 ### Suggerimenti
 
-+ Abbiamo 3 gemme nel setup che non hanno molto importanza su quale livello o quality siano. Ciclone, Flame dash e ball lightning. Livelliamo a 20 20 e vendiamoli
++ Abbiamo 3 gemme nel setup che non hanno molto importanza su quale livello o quality siano. Cyclone, Flame dash e ball lightning. Livelliamo a 20 20 e vendiamoli
