@@ -1,10 +1,12 @@
-### Path of building
+# Guardian Herald of Agony
+
+## Path of building
 
 https://pastebin.com/2nwpBNi8
 
-### Funzionamento della build
+## Funzionamento della build
 
-#### Difesa
+### Difesa
 
 * Ascendancy del guardiano **Radiant faith**: *Grants maximum Energy Shield equal to 10% of your Reserved Mana*
 * Elmo **memory vault**: *Gain Armour equal to your Reserved Mana*
@@ -25,7 +27,7 @@ portano il blocco a 75%
 
 perennemente attivo grazie a cyclone
 
-#### Attacco
+### Attacco
 
 **Arakali Fang** è la componente melee della build. Ci permetterà di avere 20 minion molto aggressivi, veloci e spietati che applicheranno in maniera massiva blind(con il jewel sulla cintura), withered e puliranno in maniera molto efficace.
 
