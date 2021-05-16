@@ -1,8 +1,3 @@
----
-layout: post
-title:  "Guardian Herald of Agony"
----
-
 ### Path of building
 
 https://pastebin.com/2nwpBNi8
