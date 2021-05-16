@@ -1,3 +1,8 @@
+---
+layout: page
+title: About
+---
+
 ### Path of building
 
 https://pastebin.com/2nwpBNi8
