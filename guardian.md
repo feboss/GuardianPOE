@@ -101,8 +101,7 @@ Uccidere tutti
 
 ### equip
 
-> Elmo + scudo è la base difensiva della build.
-> <br/><br/>
+> Elmo + scudo è la base difensiva della build
 
 [Elmo: Memory vault](https://www.pathofexile.com/trade/search/Ultimatum/QRbaOHw)
 
@@ -158,7 +157,6 @@ Uccidere tutti
 [Golden Rule (mana reserve)](https://www.pathofexile.com/trade/search/Ultimatum/YB0Yby7UY)
 
 > **Split personality** in ordine di importanza: Int e ES, ES e Mana, ES e Armour
-> <br/><br/>
 
 [Split Personality](https://www.pathofexile.com/trade/search/Ultimatum/ErXJ7jZC5)
 
