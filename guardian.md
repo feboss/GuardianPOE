@@ -117,12 +117,8 @@ Uccidere tutti
 
 [amuleto +2 (upgrade dell'astramentis)](https://www.pathofexile.com/trade/search/Ultimatum/qREdv5pCg)
 
-> **Armour** corruzioni in ordine di importanza: 
-> * +1 alle gemme
-> * Iron reflex
-> * Phase acrobatics
-> * Imbalance guard
-> * Wind dancer
+> **Armour** in ordine di importanza: 
+> +1 alle gemme, iron reflex, phase acrobatics, imbalance guard, wind dancer. 
 
 [Armour: Skin of the loyal](https://www.pathofexile.com/trade/search/Ultimatum/jYJg2XhX)
 
@@ -134,12 +130,9 @@ Uccidere tutti
 
 [Armour: Skin of the lords 2G3R1B](https://www.pathofexile.com/trade/search/Ultimatum/vXomY9MHE)
 
-> **Scudo** Corruzioni In ordine di importanza:
-> * Chance to block spell damage
-> * determination skill
-> * energy shield
-
- > Nel caso in cui si acquista uno scudo con determination, spostare il setup con enlighten nello scudo e spostare le skill dello scudo in un 4 link trovandosi con una skill libera, lasciando posto ad esempio a second wind o faster casting
+> **Scudo** In ordine di importanza: 
+> Chance to block spell damage, determination skill, energy shield 
+> Nel caso in cui si acquista uno scudo con determination, spostare il setup con enlighten nello scudo e spostare le skill dello scudo in un 4 link trovandosi con una skill libera
 
 [Scudo: Aegis aurora](https://www.pathofexile.com/trade/search/Ultimatum/ZJbvmYHQ)
 
