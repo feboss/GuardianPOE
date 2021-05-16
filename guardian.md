@@ -175,7 +175,7 @@ Uccidere tutti
 
 [BigCluster ](https://www.pathofexile.com/trade/search/Ultimatum/G5jEK6Bib)
 
-[Medium Cluster mana reserve 30](https://www.pathofexile.com/trade/search/Ultimatum/vZ3WwdzHE)
+[Medium Cluster mana reserve 30](https://www.pathofexile.com/trade/search/Ultimatum/KeVKbXDf5)
 
 ### Gemme
 

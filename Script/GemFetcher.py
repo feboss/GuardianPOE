@@ -25,7 +25,7 @@ def stampaAwakened():
       if x["name"].startswith("Awakened"):
          if x.get("corrupted","False") == "False":
             if x.get("gemLevel","0") == 1 and x.get("gemQuality",0) == 0:
-               print("{n} : {c} Chaos - {e} exa".format(n=x["name"], c=x["chaosValue"], e=x["exaltedValue"]))
+               print("{n}: {c} Chaos - {e} exa".format(n=x["name"], c=x["chaosValue"], e=x["exaltedValue"]))
 
 def stampaAwakenedFull():
    # STAMPA gemme 5 20 Awakened non corrotte
@@ -34,7 +34,7 @@ def stampaAwakenedFull():
       if x["name"].startswith("Awakened"):
          if x.get("corrupted","False") == "False":
             if x.get("gemLevel","0") == 5 and x.get("gemQuality",0) == 20:
-               print("{n} : {c} Chaos - {e} exa".format(n=x["name"], c=x["chaosValue"], e=x["exaltedValue"]))
+               print("{n}: {c} Chaos - {e} exa".format(n=x["name"], c=x["chaosValue"], e=x["exaltedValue"]))
 
 def main():
    stampaventiventi()
