@@ -1,4 +1,5 @@
 import requests
+
 url = "https://www.pathofexile.com/api/trade/search/Ultimatum"
 headers = {    
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0",
@@ -10,7 +11,7 @@ def stampa(x):
     print (str(x["listing"]["price"].get("amount","NO PRICE")) + " " +str(x["listing"]["price"].get("currency","NO PRICE"))  )
     print (x["listing"]["whisper"])   
 
-def filtro(arrayRisposte):
+def filtra(arrayRisposte):
     for y in arrayRisposte:
         for x in y["result"]:
             # X1
@@ -43,29 +44,27 @@ def filtro(arrayRisposte):
                     stampa(x)   
 
 def search(ricerca):
-
     resp = requests.post(url,  headers=headers, data=ricerca).json()
 
-    arrayStringaID = []
-    stringaID = ""
+    lista_di_id = []
+    dieci_id = ""
     i=0
     for x in resp["result"]:
         i+=1
-        stringaID += x + ","
+        dieci_id += x + ","
         if (i%10 == 0):
-            arrayStringaID.append(stringaID)
-            stringaID = ""
-
-    # Cancelliamo l'ultimo carattere dall'insieme delle stringhe, che corrisponde alla virgola
-    for i in range(len(arrayStringaID)):
-        arrayStringaID[i] = arrayStringaID[i][:-1]
-
-    arrayRisposte = []
-    for x in arrayStringaID:
-        risposta = requests.get("https://www.pathofexile.com/api/trade/fetch/" +x+ "?query=" +resp["id"], headers=headers).json()
-        arrayRisposte.append(risposta)
+            lista_di_id.append(dieci_id)
+            dieci_id = ""
     
-    return arrayRisposte
+    # Cancelliamo l'ultimo carattere dall'insieme delle stringhe, che corrisponde alla virgola
+    lista_di_id = [x[:-1] for x in lista_di_id]
+
+    risposte = []
+    for x in lista_di_id:
+        risposta = requests.get("https://www.pathofexile.com/api/trade/fetch/" +x+ "?query=" +resp["id"], headers=headers).json()
+        risposte.append(risposta)
+    
+    return risposte
 
 
 
@@ -76,19 +75,15 @@ def search(ricerca):
 #RICHIESTA DA 6 EXA
 #{"query":{"status":{"option":"online"},"type":"Inscribed Ultimatum","stats":[{"type":"and","filters":[],"disabled":false}],"filters":{"ultimatum_filters":{"filters":{"ultimatum_input":{"option":"Exalted Orb"}},"disabled":false},"trade_filters":{"filters":{"price":{"option":"exa","min":6}}}}},"sort":{"price":"asc"}}
 
-
 #Ricerca Chaos
-ricerca = '{"query":{"status":{"option":"online"},"stats":[{"type":"and","filters":[]}],"filters":{"ultimatum_filters":{"filters":{"ultimatum_input":{"option":"Exalted Orb"}}},"trade_filters":{"filters":{"price":{"option":"chaos"}}}}},"sort":{"price":"asc"}}'
-risposta = search(ricerca)
-filtro(risposta)
+risposta = search('{"query":{"status":{"option":"online"},"stats":[{"type":"and","filters":[]}],"filters":{"ultimatum_filters":{"filters":{"ultimatum_input":{"option":"Exalted Orb"}}},"trade_filters":{"filters":{"price":{"option":"chaos"}}}}},"sort":{"price":"asc"}}')
+filtra(risposta)
 #ricerca max 5.9
-ricerca = '{"query":{"status":{"option":"online"},"type":"Inscribed Ultimatum","stats":[{"type":"and","filters":[],"disabled":false}],"filters":{"ultimatum_filters":{"filters":{"ultimatum_input":{"option":"Exalted Orb"}},"disabled":false},"trade_filters":{"filters":{"price":{"option":"exa","max":5.9}}}}},"sort":{"price":"asc"}}'
-risposta = search(ricerca)
-filtro(risposta)
+risposta = search('{"query":{"status":{"option":"online"},"type":"Inscribed Ultimatum","stats":[{"type":"and","filters":[],"disabled":false}],"filters":{"ultimatum_filters":{"filters":{"ultimatum_input":{"option":"Exalted Orb"}},"disabled":false},"trade_filters":{"filters":{"price":{"option":"exa","max":5.9}}}}},"sort":{"price":"asc"}}')
+filtra(risposta)
 #Ricerca DA 6 EXA
-ricerca = '{"query":{"status":{"option":"online"},"type":"Inscribed Ultimatum","stats":[{"type":"and","filters":[],"disabled":false}],"filters":{"ultimatum_filters":{"filters":{"ultimatum_input":{"option":"Exalted Orb"}},"disabled":false},"trade_filters":{"filters":{"price":{"option":"exa","min":6}}}}},"sort":{"price":"asc"}}'
-risposta = search(ricerca)
-filtro(risposta)
+risposta = search('{"query":{"status":{"option":"online"},"type":"Inscribed Ultimatum","stats":[{"type":"and","filters":[],"disabled":false}],"filters":{"ultimatum_filters":{"filters":{"ultimatum_input":{"option":"Exalted Orb"}},"disabled":false},"trade_filters":{"filters":{"price":{"option":"exa","min":6}}}}},"sort":{"price":"asc"}}')
+filtra(risposta)
 
 
 
