@@ -2,4 +2,4 @@
 [Guardian Herald of Agony](./guardian.html)
 
 **Build**:
-[Script AutoHotkey](./script/POE2.ahk)
+[Script AutoHotkey](./Script/POE2.ahk)
