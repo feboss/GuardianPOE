@@ -88,7 +88,7 @@ Svuota:
 ; TEST
 ;----------------------------------------------------------------------	
 
-test:
+/* test:
 	random, totalDelay, 1900, 3300
 	Array := [1,2,3,4,5]
 	Loop
@@ -103,5 +103,5 @@ test:
 		}
 	sleep, %totalDelay%
 	return
-
+ */
 	
