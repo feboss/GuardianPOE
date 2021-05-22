@@ -10,7 +10,7 @@ $Space::
 	
 ;$+n::
 ;	Gosub, SeiLink
-	return
+;	return
 	
 $^a::
 	suspend
