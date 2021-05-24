@@ -32,7 +32,7 @@ ciclo_flask:
 	random, totalDelay, 4000, 4200
 	Array := [2,3,4,5]
 	Loop, % Array.Length()
-		{
+	{
 		Random, F_Index,  1, % Array.Length()
 		Flask := Array.RemoveAt(F_Index)
 		Send, % Flask
@@ -40,7 +40,7 @@ ciclo_flask:
 		sleep, %delay%
 		if array.Length() = 0
 			break
-		}
+	}
 	SetTimer, first_beep, -4200
 	sleep, %totalDelay%	
 	
@@ -82,7 +82,3 @@ Svuota:
 		yb := yb + 50
 	}
 	return
-
-
-
-	
