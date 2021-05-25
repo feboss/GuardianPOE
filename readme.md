@@ -1,5 +1,5 @@
 **Build**:
 [Guardian Herald of Agony](./guardian.html)
 
-**Build**:
+**Vari**:
 [Script AutoHotkey](./Script/POE2.ahk)
