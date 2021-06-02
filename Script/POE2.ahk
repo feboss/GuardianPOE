@@ -1,16 +1,16 @@
-﻿#IfWinActive, ahk_class POEWindowClass
+#IfWinActive, ahk_class POEWindowClass
 
 ;----------------------------------------------------------------------
 ; Hotkey
 ;----------------------------------------------------------------------	
 
 $Space::
-	Gosub, CicloFlask
+	Gosub, ciclo_flask
 	return
-	
+
 ;$+n::
 ;	Gosub, SeiLink
-	return
+;	return
 	
 $^a::
 	suspend
@@ -28,23 +28,22 @@ $F2::
 ; Ciclo delle flask
 ;----------------------------------------------------------------------	
 
-CicloFlask:		
-	;Send, 1	
-	;random, delay, -15, 50
-	;sleep, %delay%
-	Send, 2	
-	random, delay, -18, 42
-	sleep, %delay%
-	Send, 3	
-	random, delay, -25, 50
-	sleep, %delay%
-	Send, 4
-	random, delay, -10, 30
-	sleep, %delay%
-	Send, 5
-	random, delay, -5, 5
-	sleep, %delay%		
-	SetTimer, first_beep, -4000
+ciclo_flask:
+	random, totalDelay, 4000, 4200
+	Array := [2,3,4,5]
+	Loop, % Array.Length()
+	{
+		Random, F_Index,  1, % Array.Length()
+		Flask := Array.RemoveAt(F_Index)
+		Send, % Flask
+		random, delay, -66, 129
+		sleep, %delay%
+		if array.Length() = 0
+			break
+	}
+	SetTimer, first_beep, -4200
+	sleep, %totalDelay%	
+	
 	return
 
 first_beep:
@@ -83,25 +82,3 @@ Svuota:
 		yb := yb + 50
 	}
 	return
-
-;----------------------------------------------------------------------
-; TEST
-;----------------------------------------------------------------------	
-
-/* test:
-	random, totalDelay, 1900, 3300
-	Array := [1,2,3,4,5]
-	Loop
-		{
-		Random, F_Index,  1, % array.Length()
-		Flask := Array.RemoveAt(F_Index)
-		Send, % Flask
-		random, delay, 48, 278
-		sleep, %delay%
-		if array.Length() = 0
-			break
-		}
-	sleep, %totalDelay%
-	return
- */
-	
