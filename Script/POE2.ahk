@@ -1,4 +1,4 @@
-﻿#IfWinActive, ahk_class POEWindowClass
+#IfWinActive, ahk_class POEWindowClass
 
 ;----------------------------------------------------------------------
 ; Hotkey
